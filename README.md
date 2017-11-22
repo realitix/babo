@@ -1,2 +1,3 @@
-# babo
-Babo violent regenerated with Vulk Framework
+# BABO
+
+Mainly a test for my Vulk framework
